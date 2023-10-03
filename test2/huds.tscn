@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://kxldiqh3youk"]
+
+[ext_resource type="PackedScene" uid="uid://cgrcfqfn4mq1n" path="res://hud.tscn" id="1_e0q3w"]
+
+[node name="HUD" instance=ExtResource("1_e0q3w")]
